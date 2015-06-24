@@ -1,0 +1,19 @@
+body {
+  padding-top: 50px;
+  font-family: courier;
+}
+
+.starter-template {
+  text-align: left
+  color: black;
+}
+
+.starter-template#main{
+  background-image: url('../images/hands_bw.jpg');
+  background-size: cover;
+  border-radius: 5px;
+  border-color: yellow;
+  box-shadow: 10px 10px 10px lightsteelblue;
+  text-align: center;
+  color: white;
+}
